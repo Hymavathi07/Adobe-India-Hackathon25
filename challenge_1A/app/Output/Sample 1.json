@@ -1,0 +1,5235 @@
+{
+  "title": "Sample 1",
+  "outline": [
+    {
+      "level": "H3",
+      "text": "PROGRAM BOOK FOR",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "SEMESTER INTERNSHIP",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Page No",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "An Internship Report on",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "(Title of the Semester Internship Program) Submitted",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "in accordance with the requirement for the degree of",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Under the Faculty Guideship of",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "(Name of the Faculty Guide)",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Department of",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "(Name of the College)",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Submitted by:",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "(Name of the Student)",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Reg.No:",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Department of",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "(Name of the College)",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Page No",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Student’s Declaration",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "I,",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "a student of",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Program, Reg. No.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Of the Department of",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "College do hereby declare that I have completed the mandatory internship from",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "to",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "in",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "(Name",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "of",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "the intern organization) under the Faculty Guideship of",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "(Name of the Faculty Guide), Department of",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": ",",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "(Name of the College)",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "(Signature and Date)",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Page No",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "Official Certification",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "This is to certify that",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "(Name of",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "the student) Reg. No.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "has completed his/her Internship in",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "(Name",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "of",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "the",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Intern",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Organization)",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "on",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "(Title",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "of",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "the",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Internship)",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "under",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "my",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "supervision  as  a  part  of  partial  fulfillment  of  the  requirement  for  the",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Degree",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "of",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "(Name of the College).",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "in",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "the",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Department",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "of",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "This is accepted for evaluation.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "(Signatory with Date and Seal)",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Endorsements",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Faculty Guide",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Head of the Department",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Principal",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Page No",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "Certificate from Intern Organization",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "This is to certify that",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "_ (Name of the intern)",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Reg.    No",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "of",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "_ (Name of the",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "College) underwent internship in",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "(Name of the",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Intern Organization) from",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "to",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "The overall performance of the intern during his/her internship is found to be",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "_ (Satisfactory/Not Satisfactory).",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Authorized Signatory with Date and Seal",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Page No",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "Acknowledgements",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Page No",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "Contents",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "S.No",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Name of the Topic/Chapter",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Page No.",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "From- To",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "1",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Introduction to Full-Stack Development, REST APIs,",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Authentication Basics, and Database Integration.",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "2",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Build Student Management System with CRUD APIs, React",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Frontend, Auth (JWT), and Full Deployment.",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "3",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Develop Task Management System with JWT Auth, Task APIs,",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "and React Dashboard Integration.",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "4",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Create Bookstore App with Cart Functionality, Product Listing,",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Razorpay/Stripe Integration, and UI Finishing.",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "5",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Build Job Portal with Role-Based Access, Job Postings, Recruiter",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Dashboard, and Admin Panel.",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "6",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Microservices Architecture: Design and Dockerize Patient,",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Billing, and Doctor Services with Gateway API Integration.",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Page No",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "CHAPTER 1: EXECUTIVE SUMMARY",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "This Full-Stack Web Development program is designed to provide hands-on experience",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "and practical exposure to modern web development technologies and real-world application",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "building. The curriculum begins with a solid foundation in core web development concepts,",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "including REST APIs, authentication mechanisms like JWT, and integration with databases to",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "establish back-end proficiency.",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Learners then move into building full-fledged applications that mirror real industry",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "scenarios. The first application focuses on designing a student management system using",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Express.js and MongoDB for the backend, and React for the frontend, integrating secure login",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "functionality and deploying the project using platforms like Render and Netlify. The next",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "phase enhances understanding of authentication by building a task management system,",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "allowing users to register, log in, and manage tasks through an interactive React dashboard.",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "In the third application, learners explore e-commerce development by creating a",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "bookstore with dynamic cart functionality and payment gateway integration using Stripe or",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Razorpay, covering product management, pricing logic, and user checkout flow. The fourth",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "segment introduces a job portal system with clearly defined roles (Admin, Recruiter, User),",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "focusing on recruiter dashboards, applicant tracking, and admin moderation tools.",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Finally, the program culminates with a real-world implementation of microservices",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "architecture. Students design independent modules like Patient, Billing, and Doctor services,",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "each running on separate ports and databases. These services are dockerized and connected",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "through a gateway API using Docker Compose, simulating enterprise-grade system design.",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "This structured, project-based journey ensures a comprehensive understanding of full-",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "stack development, readying participants for professional software development roles.",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Page No",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "CHAPTER 2: OVERVIEW OF THE INTERN ORGANIZATION",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "SkillDzire Organisation is India’s Leading Real-Time Learning platform that aims to",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "provide job-oriented courses, projects, internships, placement Programs, Faculty",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Development Programs, and Workshops to aspiring People. With a vision to bridge the skills",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "gap in the industry, SkillDzire offers a diverse range of six job-oriented courses designed to",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "equip individuals with the necessary skills and knowledge demanded by the current job",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "market.",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "SkillDzire's courses and internships are carefully curated and structured by 20 Plus industry",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "experts and experienced professionals. The organization Started with 6 employees, but now",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Around 40 plus Enthusiastic People are Working. The Organisation adopts a learner-centric",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "approach, ensuring that the courses are engaging, interactive, and aligned with the latest",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "industry trends and practices. The platform provides a user-friendly and accessible learning",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "environment, utilizing modern technologies and tools to facilitate effective learning outcomes.",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Learners have access to comprehensive course materials, practical exercises, quizzes, and",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "assessments, enabling them to track their progress and reinforce their understanding of the",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "subject matter.",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "By combining job-oriented courses with hands-on internships, SkillDzire aims to empower",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "individuals with the skills, knowledge, and practical exposure required to excel in their chosen",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "professions. Whether one is a fresh graduate seeking to kick-start their career or a working",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "professional looking to upskill, SkillDzire offers a comprehensive platform to unlock their full",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "potential and thrive in today's competitive job market.",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Page No",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "CHAPTER 3: INTERNSHIP PART",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "The Full-Stack Web Development internship is structured to provide students with",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "immersive, project-based learning that mirrors real-world software development practices.",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Over the course of six weeks, interns engage in a progressive learning journey starting from",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "the foundational concepts of web development to building and deploying complex",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "applications. The internship emphasizes both front-end and back-end development, giving",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "interns a holistic understanding of full-stack workflows.",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Interns begin by learning essential technologies such as REST APIs, database integration, and",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "authentication using JWT. They then apply these skills in a series of hands-on projects that",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "simulate professional development environments. Projects include a student management",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "system, a task management dashboard, an e-commerce bookstore with payment integration,",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "and a job portal with admin and recruiter functionalities. These applications are developed",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "using popular technologies such as React, Node.js, Express, MongoDB, and deployed on",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "platforms like Netlify and Render.",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "The internship culminates with a capstone project on microservices architecture, where",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "students design and build independent services for healthcare management (Patient, Billing,",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Doctor), implement internal API communication, and containerize the entire system using",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Docker and Docker Compose. This provides exposure to scalable and modular system design,",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "a key requirement in modern enterprise applications.",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Throughout the internship, students are encouraged to follow software development best",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "practices, including version control with Git, modular coding, and UI/UX refinement. By the",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "end of the program, interns not only gain deep technical expertise but also build a strong",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "portfolio of deployable projects that demonstrate their readiness for full-time development",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "roles or entrepreneurial ventures in the tech industry.",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Page No",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "CHAPTER 4: WEEKLY REPORT",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "ACTIVITY LOG FOR THE FIRST WEEK",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Day",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Brief description of",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "the daily activity",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Learning Outcome",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Signature",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "of",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Person",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "In-Charge",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Day 1",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Introduction to Full-Stack",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Development – Overview of",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "frontend, backend, and",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "databases; roles and",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "responsibilities",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Understand the full-stack",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "architecture and the role of a",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "developer in building complete web",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "applications",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Day 2",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Deep dive into frontend",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "technologies (HTML, CSS,",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "JavaScript, React basics); setting",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "up the development",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "environment",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Ability to build basic UI components",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "and understand how frontend",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "interacts with backend",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Day 3",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Backend fundamentals using",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Node.js & Express – creating",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "basic routes and setting up",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "RESTful APIs",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Learn how to create server-side",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "applications and structure API",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "endpoints",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Day 4",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Introduction to MongoDB and",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Mongoose – creating schemas,",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "connecting to database, basic",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "CRUD operations",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Gain practical experience in database",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "design and how to integrate",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "databases with backend",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Day 5",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Authentication basics using JWT",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "– registering users, password",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "hashing, token generation and",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "protection of routes",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Understand user authentication flow",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "and implement secure login",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "functionality in a full-stack",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "application",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Page No",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Weekly REPORT",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Week – 1  ( From Dt………..….. to Dt ........................ )",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Objective of the Activity Done:",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Introduction to Full-Stack Development, REST APIs, Authentication Basics, and",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Database Integration.",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Detailed Report:",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "During the first week of the Full-Stack Web Development internship, students were introduced to",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "the foundational concepts necessary for building complete web applications. The week began with",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "an overview of full-stack development, explaining the key roles of frontend, backend, and database",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "layers. Interns gained a clear understanding of how these components interact within a modern web",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "application.",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "The second day focused on frontend development, covering HTML, CSS, JavaScript, and an",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "introduction to React. Students learned how to structure web pages, style components, and handle",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "basic interactivity. A simple React application was created to illustrate the concept of reusable",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "components and state management.",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Mid-week, the attention shifted to backend development using Node.js and Express. Interns learned",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "to set up a local server, define API routes, and handle requests/responses. This helped them",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "understand how the backend serves as a bridge between frontend interfaces and databases.",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "On the fourth day, MongoDB and Mongoose were introduced for database integration. Students",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "practiced designing schemas and performing CRUD operations to store and retrieve data",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "dynamically. This emphasized the role of databases in persistent data storage.",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "The final day was dedicated to authentication fundamentals. Interns implemented user registration,",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "password encryption using bcrypt, and authentication with JWT tokens. They also protected API",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "routes and learned about secure session management.",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "By the end of the week, students had a strong grasp of full-stack architecture and completed a mini",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "project combining frontend forms, backend APIs, and MongoDB, secured with JWT-based",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "authentication — laying a solid foundation for advanced projects in the coming weeks.",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Page No",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "ACTIVITY LOG FOR THE SECOND WEEK",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Day",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Brief description of",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "the daily activity",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Learning Outcome",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Signature",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "of Person",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "In-Charge",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Day 1 Setup backend using Node.js,",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Express, and MongoDB.",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Create student schema and",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "implement CRUD APIs.",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Ability to design backend architecture,",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "connect to a database, and perform",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "CRUD operations via REST APIs.",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Day 2 Develop the React frontend:",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "build forms for data entry,",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "tables for listing students,",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "and basic UI layout.",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Understand how to build interactive",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "frontend interfaces and connect them",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "with backend APIs using Axios/Fetch.",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Day 3 Implement user",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "authentication with JWT –",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "registration, login, and",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "securing student routes.",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Gain knowledge of secure login",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "systems, token-based authentication,",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "and route protection in backend and",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "frontend.",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Day 4 Connect frontend with",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "secured backend, add role-",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "based access control, and",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "refine UI interactions.",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Learn how to handle authentication on",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "the frontend and restrict access based on",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "user roles and login status.",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Day 5 Deploy backend on Render",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "and frontend on Netlify. Test",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "full system integration",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "online.",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Master full-stack deployment process",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "and gain confidence in building and",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "hosting live full-stack applications.",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Page No",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "WEEKLY REPORT",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Week – 2   (From Dt………..….. to Dt........................ )",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Objective of the Activity Done:",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Build Student Management System with CRUD APIs, React Frontend, Auth (JWT),",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "and Full Deployment.",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Detailed Report:",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "During the second week of the internship, students focused on building a fully functional",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Student Management System using a full-stack approach. The objective was to develop a",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "complete application incorporating backend APIs, frontend integration, user authentication, and",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "deployment.",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "The week started with setting up the backend using Node.js, Express.js, and MongoDB.",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Students created a student schema and implemented CRUD operations, including endpoints to",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "add, update, delete, and retrieve student records. This gave them hands-on experience in",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "working with RESTful APIs and NoSQL databases using Mongoose.",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "On the second day, interns shifted to the frontend by building a React-based user interface. They",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "designed forms for data input and tables for displaying student data. The focus was on",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "understanding component structure, state management using hooks, and API consumption using",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Axios.",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Midweek, user authentication was introduced. Students implemented secure login and",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "registration using JWT (JSON Web Tokens) and bcrypt for password hashing. Backend routes",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "were protected, and token verification was added to ensure only authenticated users could",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "access certain features.",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "The fourth day was dedicated to integrating the frontend with the authenticated backend.",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Students added role-based access controls, refined form validation, and ensured a smooth user",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "experience. This helped them understand how to manage sessions and restrict access in a real-",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "world application.",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Finally, the project was deployed. The backend was hosted on Render and the frontend on",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Netlify, allowing students to share their working application online. By the end of the week,",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "interns gained in-depth knowledge of full-stack development and deployment, along with a",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "strong project for their portfolio.",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Page No",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "ACTIVITY LOG FOR THE THIRD WEEK",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Day",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Brief description of",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "the daily activity",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Learning Outcome",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Signature",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "of Person",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "In-Charge",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Day 1",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Setup backend structure with",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Node.js and Express. Create",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Task schema and implement",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "CRUD APIs for tasks.",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Learn how to design and manage task-",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "related data using RESTful APIs and",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "MongoDB.",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Day 2  Implement JWT-based user",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "authentication system with",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "login, registration, and",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "secure route access.",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Understand the process of creating secure",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "user authentication and route protection",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "using JWT.",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Day 3",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Design and develop the React",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "frontend dashboard to",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "display tasks, create new",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "tasks, and update/delete",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "them.",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Gain proficiency in building a dynamic React",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "dashboard and interacting with secured",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "APIs.",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Day 4",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Connect frontend with",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "backend APIs using Axios.",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Enable user-specific task",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "handling and session-based",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "access.",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Learn to integrate frontend and backend",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "with authentication and manage user-",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "specific data operations.",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Day 5",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "UI enhancements, error",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "handling, and dashboard",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "refinements. Conduct final",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "testing and walkthrough of",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "the complete task system.",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Develop a polished, user-friendly task",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "management system and improve",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "debugging and project finalization skills.",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Page No",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "WEEKLY REPORT",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Week – 3   (From Dt………..….. to Dt........................ )",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Objective of the Activity Done:",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Develop Task Management System with JWT Auth, Task APIs, and React",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Dashboard Integration.",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Detailed Report:",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "During this week, interns focused on developing a Task Management System with a robust",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "authentication mechanism and an interactive React dashboard. The goal was to build a secure,",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "user-centric application allowing task creation, updating, and management.",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "The week began with setting up the backend using Node.js and Express. Students designed a",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Task schema and developed RESTful APIs to perform CRUD operations on tasks. This",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "foundational step emphasized data modeling and server-side API structuring using MongoDB",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "for persistent storage.",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "On the second day, JWT-based user authentication was implemented. Interns learned to build",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "secure login and registration systems with password hashing and token generation. Securing",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "API endpoints ensured that only authenticated users could access and manipulate their tasks,",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "reinforcing security best practices.",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Midweek, attention shifted to the frontend, where a React dashboard was developed. Students",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "built components to display tasks dynamically, and interfaces for adding, updating, and",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "deleting tasks. This enhanced their skills in React hooks, state management, and UI design.",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "The fourth day involved integrating the frontend with backend APIs. Using Axios, interns",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "connected the React dashboard to secured REST endpoints, enabling user-specific task",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "management. This phase emphasized handling authentication tokens on the client side and",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "managing user sessions effectively.",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "The final day was dedicated to refining the UI, handling errors gracefully, and conducting",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "comprehensive testing. Interns polished the dashboard’s usability, fixed bugs, and ensured",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "seamless interaction between frontend and backend.",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "By week’s end, students had built a fully functional, secure task management application,",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "sharpening both their technical and project completion skills critical for real-world",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "development roles.",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Page No",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "ACTIVITY LOG FOR THE FOURTH WEEK",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Day",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Brief description of the",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "daily activity",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Learning Outcome",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Signature",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "of Person",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "In-Charge",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Day 1 Design product and cart",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "schemas; create backend APIs",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "for product listing and cart",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "management.",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Learn to model e-commerce data",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "structures and implement REST",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "APIs for product and cart",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "operations.",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Day 2 Develop frontend product listing",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "page with add-to-cart",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "functionality using React.",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Gain skills in React component",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "design, state management, and",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "dynamic UI updates.",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Day 3 Build cart logic including",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "adding/removing items and",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "calculating totals; integrate cart",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "with backend APIs.",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Understand complex state handling",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "and synchronization between",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "frontend and backend for cart",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "operations.",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Day 4 Integrate payment gateway using",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Stripe or Razorpay; implement",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "checkout page and order",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "confirmation.",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Learn payment processing",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "integration, secure transaction",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "handling, and building user-friendly",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "checkout flows.",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Day 5 UI polishing, error handling,",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "responsive design, and final",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "testing of the entire bookstore",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "application.",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Enhance user experience through UI",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "improvements and ensure",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "application robustness and",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "responsiveness.",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Page No",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "WEEKLY REPORT",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "Week – 4   (From Dt………..….. to Dt........................ )",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "Objective of the Activity Done:",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "Create Bookstore App with Cart Functionality, Product Listing, Razorpay/Stripe",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "Integration, and UI Finishing.",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "Detailed Report:",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "This week, interns focused on creating a fully functional Bookstore application featuring",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "product listing, cart management, and payment gateway integration. The project aimed to",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "provide hands-on experience in building an e-commerce style web application with seamless",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "user interaction and secure payment processing.",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "The week began with backend development where students designed schemas for products",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "and shopping carts. They implemented RESTful APIs to support product retrieval, cart",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "addition, and removal operations. This foundation introduced interns to structuring e-",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "commerce data and managing stateful operations on the server.",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "On the second day, interns developed the frontend product listing page using React. They",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "created components to display available products dynamically and enabled users to add items",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "to their cart. This exercise enhanced their skills in component design, event handling, and",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "state management within React.",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "Midweek, the focus shifted to implementing cart logic on the frontend. Interns built",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "functionality to add or remove items, calculate total prices, and synchronize these actions with",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "backend APIs. This helped them understand complex UI state handling and how to keep",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "frontend and backend data consistent.",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "On day four, students integrated payment gateways using Stripe or Razorpay. They built a",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "checkout page where users could securely complete transactions and receive order",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "confirmations. This provided practical exposure to third-party API integration and handling",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "secure payment flows.",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "The final day was dedicated to polishing the UI, improving responsiveness, handling errors",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "gracefully, and performing comprehensive testing. By the end of the week, interns had built a",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "polished, user-friendly bookstore app with complete cart and payment functionalities,",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "equipping them with valuable e-commerce development skills.",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "Page No",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "ACTIVITY LOG FOR THE FIFTH WEEK",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "Day",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "Brief description of",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "the daily activity",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "Learning Outcome",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "Signature",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "of Person",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "In-Charge",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "Day 1",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "Setup backend with role-",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "based authentication (Admin,",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "Recruiter, User) and user",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "management APIs.",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "Understand role-based access control",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "implementation and secure user role",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "differentiation in backend.",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "Day 2  Develop job posting APIs for",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "recruiters to create, update,",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "and delete job listings.",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "Learn to design job management",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "endpoints and handle data validation and",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "authorization.",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "Day 3",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "Build Recruiter dashboard",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "frontend to manage job",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "postings and view applicants",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "using React.",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "Gain experience in building role-specific",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "UI and handling dynamic data display and",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "updates.",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "Day 4",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "Create Admin panel to",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "manage users, moderate job",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "listings, and control platform",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "settings.",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "Understand admin functionalities,",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "moderation controls, and higher-level",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "management interfaces.",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "Day 5",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "Integrate all modules, test",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "role-based workflows, polish",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "UI/UX, and perform end-to-",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "end testing.",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "Master integration of multi-role systems",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "and ensure smooth, secure user",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "experience across roles.",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "Page No",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "WEEKLY REPORT",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "Week – 5  ( From Dt………..….. to Dt ........................ )",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "Objective of the Activity Done:",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "Build Job Portal with Role-Based Access, Job Postings, Recruiter Dashboard, and",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "Admin Panel.",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "Detailed Report:",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "In this week, interns developed a comprehensive Job Portal featuring role-based access",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "control, job posting management, and dedicated dashboards for recruiters and administrators.",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "The project provided practical experience in building multi-user systems with distinct",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "privileges and responsibilities.",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "The week started with setting up backend infrastructure, focusing on implementing role-based",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "authentication for three user types: Admin, Recruiter, and regular Users. Interns developed",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "secure APIs for user registration, login, and role assignment, ensuring that access control",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "mechanisms were correctly enforced at the API level.",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "On the second day, attention shifted to creating job posting APIs. Recruiters were given",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "capabilities to create, update, and delete job listings through well-structured endpoints. Interns",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "learned the importance of input validation and authorization checks to maintain data integrity",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "and security.",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "The third day was dedicated to building the Recruiter dashboard using React. This interface",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "allowed recruiters to manage their job posts and track applicants, enhancing user experience",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "through dynamic data rendering and efficient state management.",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "On day four, interns developed the Admin panel. This high-level dashboard empowered",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "admins to manage users, moderate job listings, and configure platform settings. Interns gained",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "insights into designing interfaces with administrative privileges and controls for platform",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "governance.",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "The final day involved integrating all modules and thoroughly testing role-based workflows to",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "verify that each user type could perform only their authorized actions. UI/UX polishing and",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "end-to-end testing ensured a seamless and secure multi-role experience. By week’s end,",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "interns acquired vital skills in building scalable, secure, and role-aware web applications",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "suited for enterprise environments.",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "Page No",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "ACTIVITY LOG FOR THE SIXTH WEEK",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Day",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Brief description of the",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "daily activity",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Learning Outcome",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Signature",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "of Person",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "In-Charge",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Day 1",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Design microservices",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "architecture; create separate",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Express services for Patient,",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Billing, and Doctor with",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "individual databases.",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Understand microservices design",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "principles and develop independent,",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "focused backend services.",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Day 2  Implement CRUD APIs for each",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "service with database",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "integration and service-specific",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "business logic.",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Gain hands-on experience in building",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "and managing service-specific APIs and",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "data handling.",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Day 3",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Dockerize each microservice",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "and configure Docker Compose",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "to orchestrate multi-container",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "setup.",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Learn containerization concepts and",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "how to manage multi-service",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "deployment using Docker Compose.",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Day 4",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Develop API Gateway to route",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "requests to appropriate",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "microservices and handle",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "authentication/security.",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Understand API Gateway role in",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "microservices, request routing, and",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "centralized security enforcement.",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Day 5",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Test the entire microservices",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "system end-to-end;",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "troubleshoot communication",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "between services and optimize",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "deployment.",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Master testing of distributed systems,",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "inter-service communication, and",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "deployment best practices.",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Page No",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "WEEKLY REPORT",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "Week – 6  ( From Dt………..….. to Dt ........................ )",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "Objective of the Activity Done:",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "Microservices Architecture: Design and Dockerize Patient, Billing, and Doctor",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "Services with Gateway API Integration.",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "Detailed Report:",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "During this week, interns worked on designing and implementing a microservices-based",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "architecture focusing on three core services: Patient, Billing, and Doctor. The project aimed to",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "teach the principles of building scalable, independent services that communicate through a",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "centralized gateway, alongside containerization and deployment practices.",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "The week began with designing the microservices architecture and creating separate Express.js",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "services for each domain: Patient, Billing, and Doctor. Each service was designed to operate",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "independently with its own database, emphasizing modularity and separation of concerns,",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "which are fundamental to microservices.",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "On the second day, interns developed CRUD APIs for each service, implementing business",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "logic specific to each domain. This reinforced the importance of designing APIs tailored to",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "individual service responsibilities while maintaining consistency and reliability.",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "Midweek, the focus shifted to Dockerizing each microservice. Students created Dockerfiles and",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "used Docker Compose to orchestrate multi-container setups, facilitating local development and",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "deployment. This hands-on experience provided essential knowledge about containerization",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "and service isolation.",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "On day four, interns developed an API Gateway that acted as a single entry point, routing",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "incoming requests to the respective microservices. The gateway also handled authentication and",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "centralized security, highlighting its critical role in managing distributed systems.",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "The final day was dedicated to end-to-end testing of the entire system. Interns troubleshot inter-",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "service communication issues, verified data flow, and optimized the deployment process. By",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "week ’ s end, students had a solid understanding of microservices architecture, containerization,",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "API gateway patterns, and the challenges of managing distributed applications in production",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "environments.",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "Page No",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "CHAPTER  5:  OUTCOMES  DESCRIPTION",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "I.",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "Describe the work environment you have experienced:",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "(in terms of people interactions, facilities available and maintenance, clarity of job roles,",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "protocols, procedures, processes, discipline, time management, harmonious relationships,",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "socialization, mutual support and teamwork, motivation, space and ventilation, etc.)",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "Page No",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "II.  Describe the real time technical skills you have acquired:",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "( in terms of the job-related skills and hands on experience)",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "Page No",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "III.  Describe the managerial skills you have acquired:",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "( in terms of planning, leadership, team work, behaviour, workmanship, productive use of time,",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "weekly improvement in competencies, goal setting, decision making, performance analysis, etc.)",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Page No",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "IV.  Describe how you could improve your communication skills:",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "( in terms of improvement in oral communication, written communication, conversational",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "abilities, confidence levels while communicating, anxiety management, understanding others,",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "getting understood by others, extempore speech, ability to articulate the key points, closing the",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "conversation, maintaining niceties and protocols, greeting, thanking and appreciating others,",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "etc.,)",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "Page No",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "V.  Describe how you could enhance your abilities in group discussions, participationin",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "teams, contribution as a team member, leading a team/activity:",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "Page No",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "VI.  Describe the technological developments you have observed and relevant to",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "thesubject area of training:",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "(focus on digital technologies relevant to your job role)",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "Page No",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "Organization Name & Address:",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "Student Self Evaluation of the Short-Term Internship",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "Student Name:",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "Registration No:",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "Term of Internship:",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "From:",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "To :",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "Date of Evaluation:",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "Please rate your performance in the following areas:",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "Rating Scale:",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "Letter grade of CGPA calculation to be provided",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "1",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "Oral communication",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "1",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "2",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "3",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "4",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "5",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "2",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "Written communication",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "1",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "2",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "3",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "4",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "5",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "3",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "Proactiveness",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "1",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "2",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "3",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "4",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "5",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "4",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "Interaction ability with community",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "1",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "2",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "3",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "4",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "5",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "5",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "Positive Attitude",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "1",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "2",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "3",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "4",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "5",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "6",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "Self-confidence",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "1",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "2",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "3",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "4",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "5",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "7",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "Ability to learn",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "1",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "2",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "3",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "4",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "5",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "8",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "Work Plan and organization",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "1",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "2",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "3",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "4",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "5",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "9",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "Professionalism",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "1",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "2",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "3",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "4",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "5",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "10",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "Creativity",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "1",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "2",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "3",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "4",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "5",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "11",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "Quality of work done",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "1",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "2",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "3",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "4",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "5",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "12",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "Time Management",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "1",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "2",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "3",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "4",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "5",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "13",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "Understanding the Community",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "1",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "2",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "3",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "4",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "5",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "14",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "Achievement of Desired Outcomes",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "1",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "2",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "3",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "4",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "5",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "15",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "OVERALL PERFORMANCE",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "1",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "2",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "3",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "4",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "5",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "Date:",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "Signature of the Student",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "Page No",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "Organization Name & Address:",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "Name & Address of the Supervisor",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "with Mobile Number",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "Evaluation by the Supervisor of the Intern Organization",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "Student Name:",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "Registration No:",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "Term of Internship:",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "From:",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "To :",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "Date of Evaluation:",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "Please rate the student’s performance in the following areas:",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "Please note that your evaluation shall be done independent of the Student’s self-",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "evaluation",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "Rating Scale: 1 is lowest and 5 is highest rank",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "1",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "Oral communication",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "1",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "2",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "3",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "4",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "5",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "2",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "Written communication",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "1",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "2",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "3",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "4",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "5",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "3",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "Proactiveness",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "1",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "2",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "3",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "4",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "5",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "4",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "Interaction ability with community",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "1",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "2",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "3",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "4",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "5",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "5",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "Positive Attitude",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "1",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "2",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "3",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "4",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "5",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "6",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "Self-confidence",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "1",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "2",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "3",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "4",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "5",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "7",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "Ability to learn",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "1",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "2",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "3",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "4",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "5",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "8",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "Work Plan and organization",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "1",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "2",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "3",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "4",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "5",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "9",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "Professionalism",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "1",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "2",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "3",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "4",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "5",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "10",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "Creativity",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "1",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "2",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "3",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "4",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "5",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "11",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "Quality of work done",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "1",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "2",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "3",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "4",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "5",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "12",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "Time Management",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "1",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "2",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "3",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "4",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "5",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "13",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "Understanding the Community",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "1",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "2",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "3",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "4",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "5",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "14",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "Achievement of Desired Outcomes",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "1",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "2",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "3",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "4",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "5",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "15",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "OVERALL PERFORMANCE",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "1",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "2",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "3",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "4",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "5",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "Date:",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "Signature of the Supervisor",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "Page No",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "PHOTOS & VIDEO LINKS",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "Page No",
+      "page": 32
+    },
+    {
+      "level": "H1",
+      "text": "EVALUATION",
+      "page": 32
+    },
+    {
+      "level": "H3",
+      "text": "Page No",
+      "page": 33
+    },
+    {
+      "level": "H2",
+      "text": "Internal & External Evaluation for Semester Internship",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "Objectives:",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "•  Explore career alternatives prior to graduation.",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "•  To assess interests and abilities in the field of study.",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "•  To develop communication, interpersonal and other critical skills in the",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "future job.",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "•  To acquire additional skills required for the world of work.",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "•  To acquire employment contacts leading directly to a full-time job following",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "graduation from college.",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "Assessment Model:",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "•  There shall be both internal evaluation and external evaluation",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "•  The Faculty Guide assigned is in-charge of the learning activities of the",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "students and for the comprehensive and continuous assessment of the",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "students.",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "•  The assessment is to be conducted for 200 marks. Internal Evaluation for 50",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "marks and External Evaluation for 150 marks",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "•  The number of credits assigned is 12. Later the marks shall be converted into",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "grades and grade points to include finally in the SGPA and CGPA.",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "•  The weightings for Internal Evaluation shall be:",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "o  Activity Log",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "10 marks",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "o  Internship Evaluation",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "30 marks",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "o  Oral Presentation",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "10 marks",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "•  The weightings for External Evaluation shall be:",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "o  Internship Evaluation",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "100 marks",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "o  Viva-Voce",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "50 marks",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "•  The External Evaluation shall be conducted by an Evaluation Committee",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "comprising of the Principal, Faculty Guide, Internal Expert and External",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "Expert nominated by the affiliating University. The Evaluation Committee",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "shall also consider the grading given by the Supervisor of the Intern",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "Organization.",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "•  Activity Log is the record of the day-to-day activities. The Activity Log is",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "assessed on an individual basis, thus allowing for individual members within",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "groups to be assessed this way. The assessment will take into consideration",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "Page No",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "the individual student’s involvement in the assigned work.",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "•  While evaluating the student’s Activity Log, the following shall be",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "considered -",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "a.  The individual student’s effort and commitment.",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "b.  The originality and quality of the work produced by the individual",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "student.",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "c.  The student’s integration and co-operation with the work assigned.",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "d.  The completeness of the Activity Log.",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "•  The Internship Evaluation shall include the following components and based",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "on Weekly Reports and Outcomes Description",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "a.  Description of the Work Environment.",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "b.  Real Time Technical Skills acquired.",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "c.  Managerial Skills acquired.",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "d.  Improvement of Communication Skills.",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "e.  Team Dynamics",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "f.  Technological Developments recorded.",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "Page No",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "MARKS  STATEMENT",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "(To be used by the Examiners )",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "Page No",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "INTERNAL  ASSESSMENT  STATEMENT",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "Name Of the Student:",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "Programme of Study:",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "Year of Study:",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "Group:",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "Regis ter  N o / H .T .  N o :",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "Name of the College:",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "University:",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "Sl.No",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "Evaluation Criterion",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "Maximum",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "Marks",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "Marks",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "Awarded",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "1.",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "Activity Log",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "10",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "2.",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "Internship Evaluation",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "30",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "3.",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "Oral Presentation",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "10",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "GRAND TOTAL",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "50",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "Date:",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "Signature of the Faculty Guide",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "EXTERNAL ASSESSMENT STATEMENT",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "Name of the Student :",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "Programme of Study :",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "Year of Study",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": ":",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "Group",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": ":",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "Regis ter  N o / H .T .  N o  :",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "Name of the College :",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "University",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": ":",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "Sl.No",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "Evaluation Criterion",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "Maximum",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "Marks",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "Marks",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "Awarded",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "1.",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "Internship Evaluation",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "80",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "2.",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "For the grading giving by the Supervisor of",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "the Intern Organization",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "20",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "3.",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "Viva-Voce",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "50",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "TOTAL",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "150",
+      "page": 37
+    },
+    {
+      "level": "H2",
+      "text": "GRAND TOTAL (EXT. 50 M + INT. 100M)",
+      "page": 37
+    },
+    {
+      "level": "H2",
+      "text": "200",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "Signature of the Faculty Guide",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "Signature of the Internal Expert",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "Signature of the External Expert",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "Signature of the Principal with Seal",
+      "page": 37
+    }
+  ]
+}

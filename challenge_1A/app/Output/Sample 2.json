@@ -1,0 +1,2540 @@
+{
+  "title": "Sample 2",
+  "outline": [
+    {
+      "level": "H3",
+      "text": "1",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "cartographic perspectives",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "cartographic    perspectives",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Number 50,  Winter 2005",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "journal of the North American Cartographic Information Society",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "NACIS WEB SITE",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "www.nacis.org",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "in this issue",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Letter from the Editor",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "(continued on page 3)",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "\u0018",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "cartographic perspectives",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "cartographic    perspectives",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "3",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "cartographic perspectives",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "in this issue",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "(continued)",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "\u0018",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "cartographic perspectives",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "In Memory of Bill Loy",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "October 13, 1936 – November 15, 2003",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Stuart Allan",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Allan Cartography",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "AllanCart@aol.com",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "\u0018",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "cartographic perspectives",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "\u0018",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "cartographic perspectives",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "cartographic perspectives",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "7",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "Unusual Displays of DEMs",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "J. Ronald Eyton",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Department of Geography",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Texas State University",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "San Marcos, TX",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "je09@txstate.edu",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "“This article describes",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "procedures for producing three",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "unique ways to visualize",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "landforms as images or maps",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "derived from digital elevation",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "models (DEMs).”",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "“Mars was chosen as the test",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "site for several reasons.",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Principal amongst these was",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "a geographer’s/cartographer’s",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "curiosity, coupled with a",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "compelling need to view new",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "landscapes.”",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "8",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "cartographic perspectives",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "“. . . when you are looking",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "at Figures11 and 12, you are",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "‘standing’ on Mars!”",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "“. . . the circular grayscale",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "mapping methodology . . . is",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "more firmly based on attempts",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "to map directional data in",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "several forms including",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "illuminated contours.”",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "“The tomographic mapping",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "methodology presented in this",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "paper has its roots in image",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "displays that are referred to as",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "‘Slice-Stacking Displays’ . . .”",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "cartographic perspectives",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "9",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "“. . . and like many ideas",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "worked on over a long time, the",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "solution just recently presented",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "itself suddenly, and is reported",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "as the DEM to DDM",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "transformation in this paper.”",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "“The algorithms were coded",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": ". . .  and ‘styled’ so that they",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "could be included in a teaching",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "package of programs (TERRA",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "FIRMA) that have been written",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "for use in undergraduate senior",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "level courses in digital remote",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "sensing and digital terrain",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "modeling.”",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "“Two map projections that are",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "easily implemented as raster",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "processing algorithms while",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "preserving the circular shapes of",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "craters were utilized to produce",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "the images in this paper.”",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "10",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "cartographic perspectives",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "cartographic perspectives",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "11",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "“The resulting distribution",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "extracted from a DEM is cir-",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "and therefore cannot be mapped",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "using conventional linear gray",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "scaling. A simple circular gray",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "scale can be used to map this",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "distribution . . .”",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "“The algorithm works for all",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "user selected solar azimuths and",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "all DEM derived slope",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "azimuths including 0° and",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "360°.”",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "12",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "cartographic perspectives",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "“. . . flat areas often are not",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "truly flat and consist of very",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "gently sloping regions that",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "show only very small variations",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "in gradient while exhibiting an",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "irregular distribution of",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "down-slope directions or",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "azimuths. The result is a rough",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "or ‘bumpy’ looking plain when",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "displayed as a circular gray",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "scale image. A comparison of",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "an azimuthal circular gray",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "scale image to a conventional",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "hillshaded image explicates this",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "point.”",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "cartographic perspectives",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "13",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "“Emphasis on every break or",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "edge in the landforms,",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "regardless of magnitude, is the",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "hallmark of the circular",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "grayscale display; no other",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "mapping transformation that I",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "have used produces this level of",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "detail.”",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "14",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "cartographic perspectives",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "“. . . the additive density of the",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "material makes it difficult to",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "see detail on the bottom layers.",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "The limiting number of sheets",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "controls the number of elevation",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "classes that are selected and in",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "order to add contour lines equal",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "interval classes are required.”",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "cartographic perspectives",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "15",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "“. . . vertical exaggeration can",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "be increased by simply adding",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "a blank transparency frame",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "between each image layer or",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "slice . . .”",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "“The same procedure can be",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "applied to other images, such as",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "satellite scenes, land use maps,",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "temperature distributions etc.,",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "registered to a DEM, to produce",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "volumetric maps with black and",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "white, or color, thematic",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "overlays.”",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "16",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "cartographic perspectives",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "cartographic perspectives",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "17",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "“A transformation that",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "converts the vertical height",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "distribution of a DEM into a",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "horizontal distance",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "distribution that I call a digital",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "distance model (DDM) provides",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "the basis for a number of unique",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "measurements and displays.”",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "18",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "cartographic perspectives",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "cartographic perspectives",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "19",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "“Contouring the DDM will",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "produce a series of",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "cross-sectional profiles; gray",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "scaling the DDM will produce",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "a display that is reminiscent of",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "the actual view, paintings, and",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "photographs of the various fore-",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "ground to background planes of",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "terrestrial foothills and",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "mountains when observed",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "from afar.”",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "20",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "cartographic perspectives",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "cartographic perspectives",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "21",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "“Circular gray scaling of a slope",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "azimuth distribution should be",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "of value to investigators",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "interested in examining",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "landform structures in great",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "detail.”",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "22",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "cartographic perspectives",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "“Images from DDMs not only",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "provide a unique horizontal",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "view of land surfaces but also",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "provide displays that might be",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "considered a form of",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "cartographic art.”",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "cartographic perspectives",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "23",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "24",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "cartographic perspectives",
+      "page": 25
+    },
+    {
+      "level": "H1",
+      "text": "Miscommunicating",
+      "page": 25
+    },
+    {
+      "level": "H1",
+      "text": "With Isoline Preference Maps:",
+      "page": 25
+    },
+    {
+      "level": "H1",
+      "text": "Design Principles for Thematic Maps",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Daniel R. Montello",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Department of Geography",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "University of California,",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Santa Barbara",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "montello@geog.ucsb.edu",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "M. Violet Gray",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "RBF Consulting",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Camarillo, California",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "vgray@rbf.com",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "“Gould and White’s",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "cartographic displays provided",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "an early demonstration that",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "subjective, intrapsychic",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "variables . . . could be",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "thematically mapped, much as",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "one maps rainfall, population,",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "or criminal activity.”",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "cartographic perspectives",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "25",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "“Early in their research",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "program, Gould and White",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "chose an appealing cartographic",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "technique for displaying their",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "preference data: the isoline (or",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "isarithm) map.”",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "“We believe that isoline",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "mapping is a poor choice for this",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "type of data primarily because it",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "produces misleadin",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "impressions of intraregional",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "preference variations among",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "viewers . . .”",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "26",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "cartographic perspectives",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "“Should people be educated to",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "understand maps, or should",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "maps be designed so as to",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "facilitate efficient and accurate",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "communication even among",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "naive viewers?”",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "cartographic perspectives",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "27",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "“A variety of criticisms and",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "suggestions for improvement",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "have been targeted at Gould and",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "White’s ‘mental mapping.’”",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "28",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "cartographic perspectives",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "“Other writers have also",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "focused on the meaning of the",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "ranking task used to generate",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "preference data.”",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "“Of course it is at least as",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "important to consider when",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "continuous mapping techniques",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "are valid in the first place as it",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "is to choose the right",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "interpolation technique.”",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "cartographic perspectives",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "29",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "“. . . many empirical studies",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "have demonstrated the",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "categorical organization of",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "geographic knowledge, whether",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "based on maps, language, or",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "direct experience of various",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "kinds . . .”",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "“We believe preference",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "rankings should be displayed at",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "the regional level at which they",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "are collected.”",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "30",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "cartographic perspectives",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "“Ironically, Chernoff faces",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "(Chernoff, 1973) might be an",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "unusually appropriate display",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "technique for regional",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "preference data.”",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "“Place preference is a useful",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "geographic concept that",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "deserves continued",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "investigation; its assessment is",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "a valuable exercise to",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "geographers.”",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "cartographic perspectives",
+      "page": 32
+    },
+    {
+      "level": "H3",
+      "text": "31",
+      "page": 32
+    },
+    {
+      "level": "H3",
+      "text": "32",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "cartographic perspectives",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "cartographic perspectives",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "33",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "34",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "cartographic perspectives",
+      "page": 35
+    },
+    {
+      "level": "H1",
+      "text": "Large-scale Topographic Web Maps",
+      "page": 35
+    },
+    {
+      "level": "H1",
+      "text": "Using Scalable Vector Graphics",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "Peter Pavlicko",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "Dept. of Cartography, GIS",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "and Remote Sensing",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "Comenius University in",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "Bratislava, Slovak Republic",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "pavlicko@fns.uniba.sk",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "Michael P. Peterson",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "Dept. of Geography/",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "Geology",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "University of Nebraska",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "at Omaha",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "mpeterson@mail.unomaha.",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "edu",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "“For cartography, the Internet",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "not only offers new tools for the",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "distribution of spatial data but",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "also new ways to present spatial",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "data.”",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "cartographic perspectives",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "35",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "“Raster formats, such as JPEG",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "and GIF, have been widely",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "criticized for use in Internet",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "cartography.”",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "“This research proposes a",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "method for creating USGS",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "primary series topographic",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "maps at a scale of 1:24,000",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "using the SVG format.”",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "36",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "cartographic perspectives",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "•",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "•",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "•",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "“Simply stated, XML is",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "regarded as the technology on",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "which the future Web will be",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "based.”",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "“It is clear that SVG is",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "becoming a very powerful tool",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "for presenting spatial",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "information on the Web.”",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "cartographic perspectives",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "37",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "•",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "•",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "•",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "•",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "•",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "“Online, large scale",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "topographic maps provide",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "many advantages for users.”",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "“Solutions based on client-side",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "architecture using open web",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "standards technology like SVG",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "can bring these types of maps to",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "the Web in an effective,",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "inexpensive way with reliable",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "quality.”",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "38",
+      "page": 39
+    },
+    {
+      "level": "H3",
+      "text": "cartographic perspectives",
+      "page": 39
+    },
+    {
+      "level": "H3",
+      "text": "•",
+      "page": 39
+    },
+    {
+      "level": "H3",
+      "text": "•",
+      "page": 39
+    },
+    {
+      "level": "H3",
+      "text": "•",
+      "page": 39
+    },
+    {
+      "level": "H3",
+      "text": "“The findings would be very",
+      "page": 39
+    },
+    {
+      "level": "H3",
+      "text": "useful for a database application",
+      "page": 39
+    },
+    {
+      "level": "H3",
+      "text": "that would deliver high-quality",
+      "page": 39
+    },
+    {
+      "level": "H3",
+      "text": "topographic maps on demand.”",
+      "page": 39
+    },
+    {
+      "level": "H3",
+      "text": "“The Digital Line Graph (DLG)",
+      "page": 39
+    },
+    {
+      "level": "H3",
+      "text": "represents the initial source",
+      "page": 39
+    },
+    {
+      "level": "H3",
+      "text": "of digital data for USGS large",
+      "page": 39
+    },
+    {
+      "level": "H3",
+      "text": "scale topographic maps.”",
+      "page": 39
+    },
+    {
+      "level": "H3",
+      "text": "cartographic perspectives",
+      "page": 40
+    },
+    {
+      "level": "H3",
+      "text": "39",
+      "page": 40
+    },
+    {
+      "level": "H3",
+      "text": "“Conversion options for",
+      "page": 40
+    },
+    {
+      "level": "H3",
+      "text": "exporting processed data from",
+      "page": 40
+    },
+    {
+      "level": "H3",
+      "text": "a GIS program to SVG differs",
+      "page": 40
+    },
+    {
+      "level": "H3",
+      "text": "between most commonly used",
+      "page": 40
+    },
+    {
+      "level": "H3",
+      "text": "GIS programs.”",
+      "page": 40
+    },
+    {
+      "level": "H3",
+      "text": "40",
+      "page": 41
+    },
+    {
+      "level": "H3",
+      "text": "cartographic perspectives",
+      "page": 41
+    },
+    {
+      "level": "H3",
+      "text": "“Since the SVG topographic",
+      "page": 41
+    },
+    {
+      "level": "H3",
+      "text": "map will be distributed via the",
+      "page": 41
+    },
+    {
+      "level": "H3",
+      "text": "Internet, the size of the",
+      "page": 41
+    },
+    {
+      "level": "H3",
+      "text": "resultant file should be as small",
+      "page": 41
+    },
+    {
+      "level": "H3",
+      "text": "as possible.”",
+      "page": 41
+    },
+    {
+      "level": "H3",
+      "text": "“The structure of the SVG",
+      "page": 41
+    },
+    {
+      "level": "H3",
+      "text": "document has to fulfill certain",
+      "page": 41
+    },
+    {
+      "level": "H3",
+      "text": "hierarchical object order . . .”",
+      "page": 41
+    },
+    {
+      "level": "H3",
+      "text": "cartographic perspectives",
+      "page": 42
+    },
+    {
+      "level": "H3",
+      "text": "41",
+      "page": 42
+    },
+    {
+      "level": "H3",
+      "text": "•",
+      "page": 42
+    },
+    {
+      "level": "H3",
+      "text": "•",
+      "page": 42
+    },
+    {
+      "level": "H3",
+      "text": "•",
+      "page": 42
+    },
+    {
+      "level": "H3",
+      "text": "•",
+      "page": 42
+    },
+    {
+      "level": "H3",
+      "text": "•",
+      "page": 42
+    },
+    {
+      "level": "H3",
+      "text": "•",
+      "page": 42
+    },
+    {
+      "level": "H3",
+      "text": "•",
+      "page": 42
+    },
+    {
+      "level": "H3",
+      "text": "•",
+      "page": 42
+    },
+    {
+      "level": "H3",
+      "text": "•",
+      "page": 42
+    },
+    {
+      "level": "H3",
+      "text": "“To minimize code, relative",
+      "page": 42
+    },
+    {
+      "level": "H3",
+      "text": "instead of absolute coordinates",
+      "page": 42
+    },
+    {
+      "level": "H3",
+      "text": "were implemented . . .”",
+      "page": 42
+    },
+    {
+      "level": "H3",
+      "text": "“Based upon these standards,",
+      "page": 42
+    },
+    {
+      "level": "H3",
+      "text": "it is possible to create the same",
+      "page": 42
+    },
+    {
+      "level": "H3",
+      "text": "symbology for map objects in",
+      "page": 42
+    },
+    {
+      "level": "H3",
+      "text": "SVG that are found in the paper",
+      "page": 42
+    },
+    {
+      "level": "H3",
+      "text": "version of topographic maps.”",
+      "page": 42
+    },
+    {
+      "level": "H3",
+      "text": "42",
+      "page": 43
+    },
+    {
+      "level": "H3",
+      "text": "cartographic perspectives",
+      "page": 43
+    },
+    {
+      "level": "H3",
+      "text": "“For example, a point feature,",
+      "page": 43
+    },
+    {
+      "level": "H3",
+      "text": "like a church or a spot height, is",
+      "page": 43
+    },
+    {
+      "level": "H3",
+      "text": "defined as a symbol and then it",
+      "page": 43
+    },
+    {
+      "level": "H3",
+      "text": "can be later referenced as many",
+      "page": 43
+    },
+    {
+      "level": "H3",
+      "text": "times as needed.”",
+      "page": 43
+    },
+    {
+      "level": "H3",
+      "text": "“Interactive features",
+      "page": 43
+    },
+    {
+      "level": "H3",
+      "text": "implemented in the SVG map",
+      "page": 43
+    },
+    {
+      "level": "H3",
+      "text": "extend the map possibilities.”",
+      "page": 43
+    },
+    {
+      "level": "H3",
+      "text": "cartographic perspectives",
+      "page": 44
+    },
+    {
+      "level": "H3",
+      "text": "43",
+      "page": 44
+    },
+    {
+      "level": "H3",
+      "text": "“Basic interactivity with the",
+      "page": 44
+    },
+    {
+      "level": "H3",
+      "text": "SVG map, such as zooming,",
+      "page": 44
+    },
+    {
+      "level": "H3",
+      "text": "panning, and resetting",
+      "page": 44
+    },
+    {
+      "level": "H3",
+      "text": "(returning to the original view)",
+      "page": 44
+    },
+    {
+      "level": "H3",
+      "text": "can be provided through the",
+      "page": 44
+    },
+    {
+      "level": "H3",
+      "text": "SVG Viewer . . .”",
+      "page": 44
+    },
+    {
+      "level": "H3",
+      "text": "“This SVG implementation was",
+      "page": 44
+    },
+    {
+      "level": "H3",
+      "text": "created using open-standard",
+      "page": 44
+    },
+    {
+      "level": "H3",
+      "text": "and open-source tools including",
+      "page": 44
+    },
+    {
+      "level": "H3",
+      "text": "GRASS GIS, SVG, XHTML",
+      "page": 44
+    },
+    {
+      "level": "H3",
+      "text": "and JavaScript (ECMAScript).”",
+      "page": 44
+    },
+    {
+      "level": "H3",
+      "text": "44",
+      "page": 45
+    },
+    {
+      "level": "H3",
+      "text": "cartographic perspectives",
+      "page": 45
+    },
+    {
+      "level": "H3",
+      "text": "“We propose that, at a",
+      "page": 45
+    },
+    {
+      "level": "H3",
+      "text": "maximum, approximately only",
+      "page": 45
+    },
+    {
+      "level": "H3",
+      "text": "one quarter of a topo-sheet is",
+      "page": 45
+    },
+    {
+      "level": "H3",
+      "text": "appropriate for presentation",
+      "page": 45
+    },
+    {
+      "level": "H3",
+      "text": "through the Web.”",
+      "page": 45
+    },
+    {
+      "level": "H3",
+      "text": "cartographic perspectives",
+      "page": 46
+    },
+    {
+      "level": "H3",
+      "text": "45",
+      "page": 46
+    },
+    {
+      "level": "H3",
+      "text": "“To distribute topographic maps",
+      "page": 46
+    },
+    {
+      "level": "H3",
+      "text": "for a larger area or",
+      "page": 46
+    },
+    {
+      "level": "H3",
+      "text": "encompassing many map sheets",
+      "page": 46
+    },
+    {
+      "level": "H3",
+      "text": "using SVG, it would be",
+      "page": 46
+    },
+    {
+      "level": "H3",
+      "text": "necessary to create a database",
+      "page": 46
+    },
+    {
+      "level": "H3",
+      "text": "that could distribute small parts",
+      "page": 46
+    },
+    {
+      "level": "H3",
+      "text": "of an individual topographic",
+      "page": 46
+    },
+    {
+      "level": "H3",
+      "text": "map on demand.”",
+      "page": 46
+    },
+    {
+      "level": "H3",
+      "text": "46",
+      "page": 47
+    },
+    {
+      "level": "H3",
+      "text": "cartographic perspectives",
+      "page": 47
+    },
+    {
+      "level": "H3",
+      "text": "47",
+      "page": 48
+    },
+    {
+      "level": "H3",
+      "text": "cartographic perspectives",
+      "page": 48
+    },
+    {
+      "level": "H3",
+      "text": "cartographic",
+      "page": 48
+    },
+    {
+      "level": "H3",
+      "text": "techniques",
+      "page": 48
+    },
+    {
+      "level": "H3",
+      "text": "48",
+      "page": 49
+    },
+    {
+      "level": "H3",
+      "text": "cartographic perspectives",
+      "page": 49
+    },
+    {
+      "level": "H3",
+      "text": "49",
+      "page": 50
+    },
+    {
+      "level": "H3",
+      "text": "cartographic perspectives",
+      "page": 50
+    },
+    {
+      "level": "H3",
+      "text": "50",
+      "page": 51
+    },
+    {
+      "level": "H3",
+      "text": "cartographic perspectives",
+      "page": 51
+    },
+    {
+      "level": "H3",
+      "text": "map library",
+      "page": 51
+    },
+    {
+      "level": "H3",
+      "text": "bulletin board",
+      "page": 51
+    },
+    {
+      "level": "H3",
+      "text": "51",
+      "page": 52
+    },
+    {
+      "level": "H3",
+      "text": "cartographic perspectives",
+      "page": 52
+    },
+    {
+      "level": "H3",
+      "text": "52",
+      "page": 53
+    },
+    {
+      "level": "H3",
+      "text": "cartographic perspectives",
+      "page": 53
+    },
+    {
+      "level": "H3",
+      "text": "reviews",
+      "page": 53
+    },
+    {
+      "level": "H3",
+      "text": "53",
+      "page": 54
+    },
+    {
+      "level": "H3",
+      "text": "cartographic perspectives",
+      "page": 54
+    },
+    {
+      "level": "H3",
+      "text": "54",
+      "page": 55
+    },
+    {
+      "level": "H3",
+      "text": "cartographic perspectives",
+      "page": 55
+    },
+    {
+      "level": "H3",
+      "text": "55",
+      "page": 56
+    },
+    {
+      "level": "H3",
+      "text": "cartographic perspectives",
+      "page": 56
+    },
+    {
+      "level": "H3",
+      "text": "56",
+      "page": 57
+    },
+    {
+      "level": "H3",
+      "text": "cartographic perspectives",
+      "page": 57
+    },
+    {
+      "level": "H3",
+      "text": "57",
+      "page": 58
+    },
+    {
+      "level": "H3",
+      "text": "cartographic perspectives",
+      "page": 58
+    },
+    {
+      "level": "H3",
+      "text": "58",
+      "page": 59
+    },
+    {
+      "level": "H3",
+      "text": "cartographic perspectives",
+      "page": 59
+    },
+    {
+      "level": "H3",
+      "text": "Cordillera Huayhuash, 1:50,000",
+      "page": 59
+    },
+    {
+      "level": "H3",
+      "text": "59",
+      "page": 59
+    },
+    {
+      "level": "H3",
+      "text": "Designed by",
+      "page": 59
+    },
+    {
+      "level": "H3",
+      "text": "Martin Gamache",
+      "page": 59
+    },
+    {
+      "level": "H3",
+      "text": "Alpine Mapping Guild",
+      "page": 59
+    },
+    {
+      "level": "H3",
+      "text": "alpinemappingguild@earthlink.net",
+      "page": 59
+    },
+    {
+      "level": "H3",
+      "text": "visual fields",
+      "page": 59
+    },
+    {
+      "level": "H3",
+      "text": "59",
+      "page": 60
+    },
+    {
+      "level": "H3",
+      "text": "cartographic perspectives",
+      "page": 60
+    },
+    {
+      "level": "H3",
+      "text": "60",
+      "page": 61
+    },
+    {
+      "level": "H3",
+      "text": "cartographic perspectives",
+      "page": 61
+    },
+    {
+      "level": "H3",
+      "text": "Unusual Displays of DEMs",
+      "page": 61
+    },
+    {
+      "level": "H3",
+      "text": "60",
+      "page": 61
+    },
+    {
+      "level": "H3",
+      "text": "Large-scale Topographic Web Maps Using Scalable Vector Graphics",
+      "page": 61
+    },
+    {
+      "level": "H3",
+      "text": "61",
+      "page": 61
+    },
+    {
+      "level": "H3",
+      "text": "Pre-Press and Technical Support Technician",
+      "page": 61
+    },
+    {
+      "level": "H3",
+      "text": "63",
+      "page": 61
+    },
+    {
+      "level": "H3",
+      "text": "color figures",
+      "page": 61
+    },
+    {
+      "level": "H3",
+      "text": "61",
+      "page": 62
+    },
+    {
+      "level": "H3",
+      "text": "cartographic perspectives",
+      "page": 62
+    },
+    {
+      "level": "H3",
+      "text": "62",
+      "page": 63
+    },
+    {
+      "level": "H3",
+      "text": "cartographic perspectives",
+      "page": 63
+    },
+    {
+      "level": "H3",
+      "text": "63",
+      "page": 64
+    },
+    {
+      "level": "H3",
+      "text": "cartographic perspectives",
+      "page": 64
+    },
+    {
+      "level": "H3",
+      "text": "64",
+      "page": 65
+    },
+    {
+      "level": "H3",
+      "text": "cartographic perspectives",
+      "page": 65
+    }
+  ]
+}
