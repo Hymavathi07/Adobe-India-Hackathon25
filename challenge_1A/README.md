@@ -1,6 +1,6 @@
-# 🧠 Adobe Hackathon 2025 - Round 1A: PDF Outline Extractor
+#  Adobe Hackathon 2025 - Round 1A: PDF Outline Extractor
 
-## 📘 Challenge Overview
+## Challenge Overview
 
 The goal of this project is to automatically extract a **structured outline** from any given PDF.  
 Specifically, the solution extracts:
@@ -16,7 +16,7 @@ This outline is returned in a valid JSON format and will be used as the base for
 
 ---
 
-## 🎯 Problem Statement
+##  Problem Statement
 
 Given a PDF of up to 50 pages:
 
@@ -27,7 +27,7 @@ Given a PDF of up to 50 pages:
 
 ---
 
-## ✅ Key Features
+##  Key Features
 
 - Extracts:
   - PDF Title (from filename)
@@ -40,20 +40,13 @@ Given a PDF of up to 50 pages:
 
 ---
 
-## 📁 Folder Structure
+##  Folder Structure
 
-pdf-outline-extractor/
-├── app/
-│ ├── input/    **#** Place your PDF files here
-│ ├── output/   **#** Extracted outline JSON files will appear here
-├── main.py     **#** Python script to extract PDF outlines
-├── requirements.txt   **#** Python dependencies
-├── Dockerfile   **#** Docker container config
-├── README.md    **#** Project documentation
+<img width="470" height="221" alt="image" src="https://github.com/user-attachments/assets/efd83499-256b-49c2-b463-b741958ef919" />
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Python 3.9**
 - **PyMuPDF (fitz)** – for PDF parsing
@@ -62,7 +55,7 @@ pdf-outline-extractor/
 
 ---
 
-## 🔧 Setup Instructions
+##  Setup Instructions
 
 ### 🔹 Prerequisites
 
@@ -81,36 +74,25 @@ Make sure these tools are installed:
    ```bash
    pip install -r requirements.txt
 
-## Place any .pdf file inside:
-app/input/
+---
+### 🔹 Run with Docker (As Required for Submission)
+1. Build Docker Image:
+   ```bash
+    docker build --platform linux/amd64 -t pdf-extractor:submission .
+2. Run Docker Container:
+   ```bash
+    docker run --rm \
+      -v ${PWD}/app/input:/app/input \
+      -v ${PWD}/app/output:/app/output \
+      --network none pdf-extractor:submission
+---
 
-## Run the script:
-python main.py
-
-## Output .json will appear in:
-app/output/
-
-## Build Docker Image
-docker build --platform linux/amd64 -t pdf-extractor:submission .
-
-## Run Docker Container
-docker run --rm \
-  -v ${PWD}/app/input:/app/input \
-  -v ${PWD}/app/output:/app/output \
-  --network none pdf-extractor:submission
-
-## This command:
-- Processes all .pdf files inside /app/input/
-- Outputs matching .json files inside /app/output/
+###  Sample JSON Output Format
+<img width="728" height="577" alt="image" src="https://github.com/user-attachments/assets/8ae5b916-131e-4fce-8b80-d426b2ab83f8" />
 
 ---
 
-### 🔍 Sample JSON Output Format
-<img width="766" height="881" alt="image" src="https://github.com/user-attachments/assets/6a7687dd-569b-4ac2-974f-cc2d4bd14cca" />
-
----
-
-## 🧠 Approach
+##  Approach
 - Used PyMuPDF to parse PDF pages and extract text spans
 - Based on font size, classified text blocks into:
       - H1 → Larger size (typically > 17)
@@ -121,7 +103,7 @@ docker run --rm \
 
 ---
 
-## ⚙️ Constraints Handled
+##  Constraints Handled
 Constraint	Status
 - PDF size ≤ 50 pages	✅ Yes
 - Execution time ≤ 10s	✅ Yes
@@ -133,7 +115,7 @@ Constraint	Status
 
 ---
 
-## 📝 Dependencies
+##  Dependencies
 - PyMuPDF==1.23.7
 - Install locally with:
       - pip install -r requirements.txt
